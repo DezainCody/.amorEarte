@@ -14,8 +14,8 @@ const products = [
     { name: "Mini cesta de Bis", price: "R$ 35,00", image: "https://i.postimg.cc/MHpH1gKB/de-bis.jpg" }, // id; 11
     { name: "Cesta de coração", price: "R$ 35,00", image: "https://i.postimg.cc/htjYNsh0/de-coracao.jpg" }, // id; 12
     { name: "Cesta de bis com bombons", price: "R$ 55,00", image: "https://i.postimg.cc/44jbX185/bonbons.jpg" }, // id; 13 
-    { name: "Cesta Madeira c/ Caneca", price: "R$ 70,00",image:
-https://i.postimg.cc/zfFxgTrn/IMG-20250424-WA0033.jpg"  }, // id 14
+    { name: "Cesta Madeira c/ Caneca", price: "R$ 70,00", image:
+"https://i.postimg.cc/zfFxgTrn/IMG-20250424-WA0033.jpg"  }, // id 14
     { name: "Cesta de Ferrero com Mini Urso", price: "R$ 80,00", image: "https://i.postimg.cc/TPZYKhBZ/ferro-com-mini-urso.jpg" }, // id; 15
     { name: "Cesta de coração com Mini Urso", price: "R$ 45,00", image: "https://i.postimg.cc/fRHdFTXF/cesta36.jpg" }, // id; 16
     { name: "Cesta de Coração com Mini almofada", price: "R$ 45,00", image: "https://i.postimg.cc/MGCn2cGs/cest.jpg" }, // id; 17
