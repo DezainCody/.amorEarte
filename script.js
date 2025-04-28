@@ -13,24 +13,26 @@ const products = [
     { name: "Rosa Eterna", price: "R$ 15,00", image: "https://i.postimg.cc/QN10zPmD/eterna.jpg" }, // id; 10
     { name: "Mini cesta de Bis", price: "R$ 35,00", image: "https://i.postimg.cc/MHpH1gKB/de-bis.jpg" }, // id; 11
     { name: "Cesta de coração", price: "R$ 35,00", image: "https://i.postimg.cc/htjYNsh0/de-coracao.jpg" }, // id; 12
-    { name: "Cesta de bis com bombons", price: "R$ 55,00", image: "https://i.postimg.cc/44jbX185/bonbons.jpg" }, // id; 13
-    { name: "Cesta de Ferrero com Mini Urso", price: "R$ 80,00", image: "https://i.postimg.cc/TPZYKhBZ/ferro-com-mini-urso.jpg" }, // id; 14
-    { name: "Cesta de coração com Mini Urso", price: "R$ 45,00", image: "https://i.postimg.cc/fRHdFTXF/cesta36.jpg" }, // id; 15
-    { name: "Cesta de Coração com Mini almofada", price: "R$ 45,00", image: "https://i.postimg.cc/MGCn2cGs/cest.jpg" }, // id; 16
-    { name: "Luminária Rosa, Bela e a Fera", price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id; 17
-    { name: "Caixa Box Completa", price: "R$ 120,00", image: "https://i.postimg.cc/G34VMq8J/amorearte-id-1.jpg" }, // id; 18
-    { name: "Cubo de Fotos giratório", price: "R$ 45,00", image: "https://i.postimg.cc/zGQRkz9k/cubo.jpg" }, // id; 19
-    { name: "Calendário de fotos com imãs", price: "R$ 20,00", image: "https://i.postimg.cc/1tqTzzZ7/ima.jpg" }, // id; 20
-    { name: "Quadro Personalizado Tradicional", price: "R$ 35,00", image: "https://i.postimg.cc/PrPDvv7q/quadro.jpg" }, // id; 21
-    { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 22
-    { name: "Quadro Mãe Amor", price: "R$ 35,00", image: "https://i.postimg.cc/bJfxPYYR/quadro-de-mae.jpg" }, // id; 23
-    { name: "Quadro Mãe Porto Seguro", price: "R$ 35,00", image: "https://i.postimg.cc/XJbm1yhK/quadro-porto-seguro.jpg" }, // id; 24
-    { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 25
-    { name: "Fotos Polaroid", price: "R$ 1,00 apartir de 10 fotos", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 26
-   // { name: "Produto 25", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 27
-   // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 28
-   // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 29
-   // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 30
+    { name: "Cesta de bis com bombons", price: "R$ 55,00", image: "https://i.postimg.cc/44jbX185/bonbons.jpg" }, // id; 13 
+    { name: "Cesta Madeira c/ Caneca", price: "R$ 70,00",image:
+https://i.postimg.cc/zfFxgTrn/IMG-20250424-WA0033.jpg"  }, // id 14
+    { name: "Cesta de Ferrero com Mini Urso", price: "R$ 80,00", image: "https://i.postimg.cc/TPZYKhBZ/ferro-com-mini-urso.jpg" }, // id; 15
+    { name: "Cesta de coração com Mini Urso", price: "R$ 45,00", image: "https://i.postimg.cc/fRHdFTXF/cesta36.jpg" }, // id; 16
+    { name: "Cesta de Coração com Mini almofada", price: "R$ 45,00", image: "https://i.postimg.cc/MGCn2cGs/cest.jpg" }, // id; 17
+    { name: "Luminária Rosa, Bela e a Fera", price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id; 18
+    { name: "Caixa Box Completa", price: "R$ 120,00", image: "https://i.postimg.cc/G34VMq8J/amorearte-id-1.jpg" }, // id; 19
+    { name: "Cubo de Fotos giratório", price: "R$ 45,00", image: "https://i.postimg.cc/zGQRkz9k/cubo.jpg" }, // id; 20
+    { name: "Calendário de fotos com imãs", price: "R$ 20,00", image: "https://i.postimg.cc/1tqTzzZ7/ima.jpg" }, // id; 21
+    { name: "Quadro Personalizado Tradicional", price: "R$ 35,00", image: "https://i.postimg.cc/PrPDvv7q/quadro.jpg" }, // id; 22
+    { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 23
+    { name: "Quadro Mãe Amor", price: "R$ 35,00", image: "https://i.postimg.cc/bJfxPYYR/quadro-de-mae.jpg" }, // id; 24
+    { name: "Quadro Mãe Porto Seguro", price: "R$ 35,00", image: "https://i.postimg.cc/XJbm1yhK/quadro-porto-seguro.jpg" }, // id; 25
+    { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 26
+    { name: "Fotos Polaroid", price: "R$ 1,00 apartir de 10 fotos", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 27
+   // { name: "Produto 25", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 28
+   // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 29
+   // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 30
+   // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
    // { name: "Produto 29", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
    // { name: "Produto 30", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 32
    // { name: "Produto 31", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 33
