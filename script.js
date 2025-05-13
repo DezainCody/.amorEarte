@@ -19,32 +19,24 @@ const products = [
     { name: "Cesta de Ferrero com Mini Urso", price: "R$ 80,00", image: "https://i.postimg.cc/TPZYKhBZ/ferro-com-mini-urso.jpg" }, // id; 15
     { name: "Cesta de coração com Mini Urso", price: "R$ 45,00", image: "https://i.postimg.cc/fRHdFTXF/cesta36.jpg" }, // id; 16
     { name: "Cesta de Coração com Mini almofada", price: "R$ 45,00", image: "https://i.postimg.cc/MGCn2cGs/cest.jpg" }, // id; 17
-    { name: "Cesta MDF - com urso, caneca e chocolates", price: "R$ 79,99", image:
-"https://i.postimg.cc/c4bxKm33/IMG-20250502-WA0036.jpg" }, // id; 18
-    { name: "Cesta MDF - Urso com sabonetes", price: "R$ 59,99", image:
-"https://i.postimg.cc/3RXjNNby/IMG-20250502-WA0052.jpg" }, // id; 19
-    { name: "Cesta MDF - Pelúcia de coração, caneca e chocolates", price: "R$ 69,99", image:
-"https://i.postimg.cc/mZdjHzgM/IMG-20250502-WA0047.jpg" }, // id; 20
     { name: "Luminária Rosa, Bela e a Fera",
-price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id; 21
-    { name: "Caixa Box Completa", price: "R$ 120,00", image: "https://i.postimg.cc/G34VMq8J/amorearte-id-1.jpg" }, // id; 22
-    { name: "Cubo de Fotos giratório", price: "R$ 45,00", image: "https://i.postimg.cc/zGQRkz9k/cubo.jpg" }, // id; 23
-    { name: "Calendário de fotos com imãs", price: "R$ 20,00", image: "https://i.postimg.cc/1tqTzzZ7/ima.jpg" }, // id; 24
-    { name: "Quadro Personalizado Tradicional", price: "R$ 35,00", image: "https://i.postimg.cc/PrPDvv7q/quadro.jpg" }, // id; 25
-    { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 26
-    { name: "Quadro Mãe Amor", price: "R$ 35,00", image: "https://i.postimg.cc/bJfxPYYR/quadro-de-mae.jpg" }, // id; 27
-    { name: "Quadro Mãe Porto Seguro", price: "R$ 35,00", image: "https://i.postimg.cc/XJbm1yhK/quadro-porto-seguro.jpg" }, // id; 28
-    { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 29
-    { name: "Fotos Polaroid", price: "R$ 1,00 apartir de 10 fotos", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 30
-   // { name: "Produto 25", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
-   // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 32
-   // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 33
-   // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 34
-   // { name: "Produto 29", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 35
-   // { name: "Produto 30", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 36
-   // { name: "Produto 31", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 37
-   // { name: "Produto 32", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 38
-   // { name: "Produto 33", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 39
+price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id; 18
+    { name: "Caixa Box Completa", price: "R$ 120,00", image: "https://i.postimg.cc/G34VMq8J/amorearte-id-1.jpg" }, // id; 19
+    { name: "Cubo de Fotos giratório", price: "R$ 45,00", image: "https://i.postimg.cc/zGQRkz9k/cubo.jpg" }, // id; 20
+    { name: "Calendário de fotos com imãs", price: "R$ 20,00", image: "https://i.postimg.cc/1tqTzzZ7/ima.jpg" }, // id; 21
+    { name: "Quadro Personalizado Tradicional", price: "R$ 39,99", image: "https://i.postimg.cc/PrPDvv7q/quadro.jpg" }, // id; 22
+    { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 23
+    { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 24
+    { name: "Fotos Polaroid", price: "R$ 1,00 apartir de 10 fotos", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
+   // { name: "Produto 25", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 26
+   // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 37
+   // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
+   // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 32
+   // { name: "Produto 29", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 33
+   // { name: "Produto 30", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 34
+   // { name: "Produto 31", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 35
+   // { name: "Produto 32", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 36
+   // { name: "Produto 33", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 37
    // { name: "Produto 34", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 40
    // { name: "Produto 35", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 41
    // { name: "Produto 36", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 42
