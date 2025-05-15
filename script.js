@@ -27,7 +27,7 @@ price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id;
     { name: "Quadro Personalizado Tradicional", price: "R$ 39,99", image: "https://i.postimg.cc/PrPDvv7q/quadro.jpg" }, // id; 22
     { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 23
     { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 24
-    { name: "Fotos Polaroid", price: "R$ 1,00 apartir de 10 fotos", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
+    { name: "10 Fotos Polaroid", price: "R$ 10,00 ", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
    // { name: "Produto 25", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 26
    // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 37
    // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
