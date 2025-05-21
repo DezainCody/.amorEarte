@@ -19,8 +19,8 @@ const products = [
     { name: "Cesta de Ferrero com Mini Urso", price: "R$ 80,00", image: "https://i.postimg.cc/TPZYKhBZ/ferro-com-mini-urso.jpg" }, // id; 15
     { name: "Cesta de coração com Mini Urso", price: "R$ 45,00", image: "https://i.postimg.cc/fRHdFTXF/cesta36.jpg" }, // id; 16
     { name: "Cesta de Coração com Mini almofada", price: "R$ 45,00", image: "https://i.postimg.cc/MGCn2cGs/cest.jpg" }, // id; 17
-    { name: "Luminária Rosa, Bela e a Fera",
-price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id; 18
+    { name: "Luminária Rosa",
+price: "R$ 60,00", image: "https://i.postimg.cc/qMcqB6tz/Air-Brush-20250520174813.jpg " }, // id; 18
     { name: "Caixa Box Completa", price: "R$ 120,00", image: "https://i.postimg.cc/G34VMq8J/amorearte-id-1.jpg" }, // id; 19
     { name: "Cubo de Fotos giratório", price: "R$ 45,00", image: "https://i.postimg.cc/zGQRkz9k/cubo.jpg" }, // id; 20
     { name: "Calendário de fotos com imãs", price: "R$ 20,00", image: "https://i.postimg.cc/1tqTzzZ7/ima.jpg" }, // id; 21
