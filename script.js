@@ -30,7 +30,7 @@ price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id;
     { name: "10 Fotos Polaroid", price: "R$ 10,00 ", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
     { name: "Cesta Stitch", price: "R$ 80,00", image:
 "https://i.postimg.cc/Jh5GTDLf/Air-Brush-20250521154043.jpg" }, // id; 26
-   // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 32
+   // { name: "Cesta Stith C/ Luminária", price: "R$ 140,00", image: "https://i.postimg.cc/cH60Qr4M/Air-Brush-20250521154010.jpg: }, // id; 27
    // { name: "Produto 29", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 33
    // { name: "Produto 30", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 34
    // { name: "Produto 31", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 35
