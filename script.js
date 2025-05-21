@@ -28,8 +28,7 @@ price: "R$ 65,00", image: "https://i.postimg.cc/sfTqmbg2/belafera.jpg" }, // id;
     { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 23
     { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 24
     { name: "10 Fotos Polaroid", price: "R$ 10,00 ", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
-    { name: "Luminária Lua", price: "R$ 25,00", image: https://i.postimg.cc/zXzPgxPJ/IMG20250521082917375.webp" }, // id; 26
-   // { name: "Produto 26", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 37
+    { name: "Luminária Lua", price: "R$ 25,00", image: "https://i.postimg.cc/Nj9hKN5K/20250520-170101.jpg" }, // id; 26
    // { name: "Produto 27", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 31
    // { name: "Produto 28", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 32
    // { name: "Produto 29", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 33
