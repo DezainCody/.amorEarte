@@ -28,10 +28,7 @@ price: "R$ 60,00", image: "https://i.postimg.cc/qMcqB6tz/Air-Brush-2025052017481
     { name: "Chaveiro Personalizado", price: "R$ 15,00", image: "https://i.postimg.cc/G3s8cnTB/chaveiro.jpg" }, // id; 23
     { name: "Tirinha de fotos", price: "R$ 10,00", image: "https://i.postimg.cc/VkzFhWLk/tirinha.jpg" }, // id; 24
     { name: "10 Fotos Polaroid", price: "R$ 10,00 ", image: "https://i.postimg.cc/BQPW6sxK/paraloid.jpg" }, // id; 25
-    { name: "Cesta Stitch", price: "R$ 80,00", image:
-"https://i.postimg.cc/Jh5GTDLf/Air-Brush-20250521154043.jpg" }, // id; 26
-    { name: "Cesta Stith C/ Luminária", price: "R$ 140,00", image: "https://i.postimg.cc/cH60Qr4M/Air-Brush-20250521154010.jpg" }, // id; 27
-    { name: "Potinho Luminária C/ foto", price: "R$ 35,00", image: "https://i.postimg.cc/nrpMbq4K/Air-Brush-20250520175750.jpg " }, // id; 28
+    { name: "Potinho Luminária C/ foto", price: "R$ 35,00", image: "https://i.postimg.cc/nrpMbq4K/Air-Brush-20250520175750.jpg " }, // id; 26
    // { name: "Produto 30", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 34
    // { name: "Produto 31", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 35
    // { name: "Produto 32", price: "R$ 00,00", image: "/api/placeholder/400/300" }, // id; 36
