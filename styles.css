@@ -1,13 +1,13 @@
 :root {
-    --primary-color: #f4b8d1;      /* Rosa mais claro */
-    --secondary-color: #f9f2f5;    /* Branco com sutil tom rosado */
-    --accent-color: #c98b9e;       /* Rosa mais escuro/acentuado */
-    --text-color: #333333;         /* Quase preto para texto */
+    --primary-color: #d67b7b;      /* Vermelho rosado principal */
+    --secondary-color: #f9f2f3;    /* Branco com leve tom vermelho rosado */
+    --accent-color: #b85555;       /* Vermelho rosado mais escuro */
+    --text-color: #2d2d2d;         /* Cinza escuro quente */
     --light-color: #ffffff;        /* Branco puro */
-    --dark-color: #333333;         /* Quase preto */
-    --brown-color: #d2b48c;        /* Marrom claro/tan */
-    --brown-light: #e6d7c3;        /* Marrom mais claro */
-    --brown-dark: #a88566;         /* Marrom um pouco mais escuro */
+    --dark-color: #2d2d2d;         /* Cinza escuro quente */
+    --brown-color: #d19999;        /* Tom rosado acinzentado */
+    --brown-light: #f0e6e6;        /* Vermelho rosado muito claro */
+    --brown-dark: #a66666;         /* Vermelho rosado escuro */
     --whatsapp-color: #25D366;
     --instagram-color: #E1306C;
     --tiktok-color: #000000;
@@ -22,7 +22,7 @@
 }
 
 body {
-    background-color: #fdf7fa;    /* Fundo branco com leve tom rosa */
+    background-color: #fefbfb;    /* Fundo off-white com sutil tom vermelho rosado */
     color: var(--text-color);
 }
 
@@ -201,19 +201,19 @@ main {
 /* Ajuste para reordenar seções - contatos antes de horários */
 /* Estilos específicos para cada título de seção */
 #contato .section-title {
-    color: #d2b48c;  /* Marrom claro para a seção de Redes Sociais */
+    color: #d19999;  /* Tom rosado acinzentado para a seção de Redes Sociais */
 }
 
 #horarios .section-title {
-    color: #d2b48c;  /* Marrom claro para a seção de Horários */
+    color: #d19999;  /* Tom rosado acinzentado para a seção de Horários */
 }
 
 #produtos .section-title {
-    color: #d2b48c;  /* Marrom claro para a seção de Catálogo */
+    color: #d19999;  /* Tom rosado acinzentado para a seção de Catálogo */
 }
 
 #localizacao .section-title {
-    color: #d2b48c;  /* Marrom claro para a seção de Localização */
+    color: #d19999;  /* Tom rosado acinzentado para a seção de Localização */
 }
 .section {
     margin-bottom: 40px;
@@ -228,7 +228,7 @@ main {
 .section-title {
     font-size: 24px;
     margin-bottom: 20px;
-    color: var(--brown-color);  /* Alterado para marrom claro */
+    color: var(--brown-color);  /* Alterado para tom rosado acinzentado */
     border-bottom: 2px solid var(--brown-light);
     padding-bottom: 10px;
     order: 0;
@@ -248,7 +248,7 @@ main {
     display: flex;
     justify-content: space-between;
     padding: 8px 15px;
-    border-bottom: 1px dashed #f4e6d4;
+    border-bottom: 1px dashed #f2eaea;
     background-color: var(--brown-light);
     border-radius: 8px;
     position: relative;
@@ -391,7 +391,7 @@ main {
     text-align: center;
     margin: 30px auto;
     padding: 15px 30px;
-    background-color: var(--brown-dark); /* Mudando para marrom escuro */
+    background-color: var(--brown-dark); /* Mudando para vermelho rosado escuro */
     border-radius: 30px;
     text-decoration: none;
     color: white;
@@ -401,7 +401,7 @@ main {
 }
 
 .share-button:hover {
-    background-color: #8d6e55; /* Marrom escuro ao passar o mouse */
+    background-color: #8f5555; /* Vermelho rosado escuro ao passar o mouse */
     transform: translateY(-3px);
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
@@ -442,7 +442,7 @@ main {
 #searchInput {
     flex: 1;
     padding: 12px 20px;
-    border: 2px solid #d2b48c;  /* Alterado para marrom claro */
+    border: 2px solid #d19999;  /* Alterado para tom rosado acinzentado */
     border-radius: 30px 0 0 30px;
     font-size: 16px;
     outline: none;
@@ -450,11 +450,11 @@ main {
 }
 
 #searchInput:focus {
-    border-color: #a88566;  /* Marrom mais escuro quando em foco */
+    border-color: #a66666;  /* Vermelho rosado escuro quando em foco */
 }
 
 #searchButton {
-    background-color: #d2b48c;  /* Alterado para marrom claro */
+    background-color: #d19999;  /* Alterado para tom rosado acinzentado */
     border: none;
     padding: 0 20px;
     color: white;
@@ -464,7 +464,7 @@ main {
 }
 
 #searchButton:hover {
-    background-color: #a88566;  /* Marrom mais escuro quando hover */
+    background-color: #a66666;  /* Vermelho rosado escuro quando hover */
 }
 
 /* Estilos para os resultados de pesquisa */
@@ -599,25 +599,25 @@ main {
 }
 
 .favorite-btn {
-    background-color: #f9e6ee; /* Rosa claro para botões de favorito */
+    background-color: #f7f0f0; /* Vermelho rosado muito claro para botões de favorito */
     color: #888;
 }
 
 .favorite-btn:hover {
     color: #ff4d4d;
     transform: scale(1.1);
-    background-color: #f9d8e5;
+    background-color: #f2e6e6;
 }
 
 .cart-btn {
-    background-color: #f0e6d9; /* Marrom bem claro para botões de carrinho */
+    background-color: #f5efef; /* Vermelho rosado muito claro para botões de carrinho */
     color: #333;
 }
 
 .cart-btn:hover {
     color: var(--brown-dark);
     transform: scale(1.1);
-    background-color: #e6d7c3;
+    background-color: #f0e6e6;
 }
 
 .favorite-active {
@@ -784,7 +784,7 @@ footer p {
     display: flex;
     margin-bottom: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid #f0e6d9;
+    border-bottom: 1px solid #f5efef;
 }
 
 .cart-item-image {
@@ -901,7 +901,7 @@ footer p {
 }
 
 .cart-share:hover {
-    background-color: #8d6e55;
+    background-color: #8f5555;
     transform: translateY(-2px);
 }
 
